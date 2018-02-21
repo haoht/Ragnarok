@@ -40,7 +40,7 @@ Target_Port：服务器监听的端口
 
 随后生成一个AESkey
 
-用AESkey加密“如果我是DJ”，得到密文和随机数
+用AES_EAX模式加密“如果我是DJ”，得到密文和随机数
 
 然后用客户端2的RSA公钥加密这个AESkey，得到加密过的AESkey
 
