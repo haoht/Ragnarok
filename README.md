@@ -22,10 +22,15 @@ Ragnarok 0.1 BETA
 我在win10 64bit python3.6.4环境下写的。换个别的环境不保证能用。
 ### 设置
 UserID：你自己的代号，比如9527
+
 TargetID：你想和谁说悄悄话
+
 Local_IP：不用管
+
 Local_Port：用哪个端口去连服务器
+
 Target_IP：其实这个应该是serverIP，小鸡的地址
+
 Target_Port：服务器监听的端口
 
 ### 使用
