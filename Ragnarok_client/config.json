@@ -4,5 +4,6 @@
   "Local_IP": "127.0.0.1",
   "Local_Port": 9527,
   "Target_IP": "127.0.0.1",
-  "Target_Port": 9999
+  "Target_Port": 9999,
+  "Blocksize":8192
 }
