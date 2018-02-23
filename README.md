@@ -1,6 +1,8 @@
 Ragnarok 0.2 BETA
 ===========
 
+加密聊天器+加密万能文件传输器
+
 服务端 
 ------
 Ragnarok_server\server.py
